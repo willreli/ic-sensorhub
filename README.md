@@ -1,4 +1,4 @@
-## 📦 SensorHub MVP
+## 📦 IC SensorHub
 
 **SensorHub** é um MVP em Python para ingestão, visualização e exportação de dados de sensores. Ele foi projetado para atender ambientes com múltiplos dispositivos e métricas em tempo real ou batelada, com uma arquitetura moderna baseada em APIs, banco de dados relacional e interface visual.
 
@@ -18,7 +18,7 @@
 ### 🗂️ Estrutura do Projeto
 
 ```
-sensor_mvp/
+ic-sensorhub/
 ├── api/                # Backend FastAPI
 │   ├── main.py         # Endpoints e inicialização
 │   ├── models.py       # Modelos SQLAlchemy
