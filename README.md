@@ -113,7 +113,7 @@ A interface web (via Streamlit) permite:
 
 | Nome                   | Contato                                                                      |
 | ---------------------- | ---------------------------------------------------------------------------- |
-| William Lima Reiznautt | [linkedin.com/in/williamreiznautt](https://linkedin.com/in/williamreiznautt) |
+| William Lima Reiznautt | [linkedin.com/in/williamreiznautt](https://www.linkedin.com/in/william-lima-reiznautt/) |
 
 ---
 
